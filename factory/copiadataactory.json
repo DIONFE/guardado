@@ -1,0 +1,9 @@
+{
+	"name": "copiadataactory",
+	"location": "westus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "aabefb7d-5bda-4c18-84d6-3a02e15ac8cc",
+		"tenantId": "8a932c3f-2678-46e6-ab1b-37229acd3589"
+	}
+}
